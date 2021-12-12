@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [MOCX](http://mocx.com.br)
 
-- 👨‍💻 All of my projects are available at [mayker.com.br](http://mayker.com.br)
+- 👨‍💻 All of my projects are available at [mayker.com.br](https://mayker.com.br)
 
 - 💬 Ask me about **TypeScript, Node.JS, JavaScript, HTML and CSS**
 
