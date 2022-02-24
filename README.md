@@ -1,9 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayker Miyanaga</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaykerHM&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Full Stack Development Intern & Passionate in programming, solving problems and learn new things.
+- 🔥 Backend Developer & Passionate in programming, solving problems and learn new things.
 
-- 🔭 I’m currently working at [MOCX](http://mocx.com.br)
+- 🔭 I’m currently studying TDD, Clean Architecture and SOLID [NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID](https://www.udemy.com/course/tdd-com-mango/)
 
 - 👨‍💻 All of my projects are available at [mayker.com.br](https://mayker.com.br)
 
