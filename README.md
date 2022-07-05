@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1rem">, I'm Mayker Miyanaga</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, I'm Mayker Miyanaga</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaykerHM&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Backend Developer & Passionate in programming, solving problems and learn new things.
