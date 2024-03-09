@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **TypeScript, Node.JS, JavaScript, HTML and CSS**
 
-- ⚡ Fun fact **I roller skate 🛼**
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
