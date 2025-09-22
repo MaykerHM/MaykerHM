@@ -11,6 +11,8 @@
 
 ## 🛠 &nbsp;Tech Stack
 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring-boot)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
