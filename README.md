@@ -3,11 +3,9 @@
 
 - 🔥 Backend Developer & Passionate in programming, solving problems and learn new things.
 
-- 🔭 I’m currently studying TDD, Clean Architecture and SOLID [NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID](https://www.udemy.com/course/tdd-com-mango/)
-
 - 👨‍💻 All of my projects are available at [mayker.com.br](https://mayker.com.br)
 
-- 💬 Ask me about **TypeScript, Node.JS, JavaScript, HTML and CSS**
+- 💬 Ask me about **Java, Spring Boot, TypeScript, JavaScript and React**
 
 <br><br>
 
@@ -47,6 +45,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
